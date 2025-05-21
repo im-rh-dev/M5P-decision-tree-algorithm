@@ -37,7 +37,4 @@ To run the code, you need to install the required dependencies and the `M5Prime`
   
 ### Notes
 - Replace `your-username` in the repository URL with your actual GitHub username.
-- Replace `your-email@example.com` with your actual email address.
 - Ensure `data_project.csv` and `insurance.csv` are included in the repository or provide instructions for users to obtain them.
-- The README assumes a `main.py` script consolidating the provided code. If the code is split across multiple files, update the "Usage" section accordingly.
-- The MIT License is assumed; update the "License" section if you prefer a different license.
